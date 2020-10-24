@@ -22,6 +22,7 @@ body { font-family: 'Roboto Condensed', sans-serif; }
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    transform: rotate(90deg);
   }
 
   .profile-header {
