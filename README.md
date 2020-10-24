@@ -1,5 +1,5 @@
 # my_portfolio
 
-<a href= "#">Chere the homepage of my portfolio here</a>
+<a href= "https://raw.githack.com/jaspreet-singh-sahota/portfolio-html/main/index.html">Click the homepage of my portfolio here</a>
 
 # portfolio-html
