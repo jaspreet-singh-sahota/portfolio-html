@@ -22,6 +22,10 @@ body { font-family: 'Roboto Condensed', sans-serif; }
   margin: 0 10px !important;
 }
 
+.hire-me:hover {
+  color: #888 !important;
+}
+
 @keyframes move {
   from { margin-right: 0px; }
   to { margin-right: 50px; }
@@ -192,7 +196,7 @@ img {
 
 .netflix-gif {
   position: absolute;
-  top: 9%;
+  top: 9.4%;
   left: 50.5%;
   transform: translateX(-50%);
   width: 55%;
