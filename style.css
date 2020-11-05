@@ -210,3 +210,7 @@ img {
   transform: scale(1.065);
   transition: transform 4s cubic-bezier(0.25, 0.45, 0.45, 0.95);
 }
+
+.weather-app {
+  margin-top: -0.8%;
+}
