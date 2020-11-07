@@ -32,9 +32,10 @@ body { font-family: 'Roboto Condensed', sans-serif; }
 }
 
 .avatar {
+  object-fit: contain;
+  transform: rotate(90deg);
   vertical-align: middle;
-  width: 150px;
-  height: 150px;
+  width: 180px;
   border-radius: 50%;
 }
 
